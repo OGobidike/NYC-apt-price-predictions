@@ -26,7 +26,7 @@ The project follows these steps:
 💻 Getting Started
 Install the Essentials
 First, let's make sure you have the necessary libraries installed. Run the following in your terminal:
----
-!pip install ydata-profiling
+```python
+import pandas as pd
+from ydata_profiling import ProfileReport
 !pip install category_encoders
----
