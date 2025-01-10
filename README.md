@@ -14,9 +14,17 @@ Property size 🏠
 Neighborhood 🌆
 The project follows these steps:
 
-Problem Definition: What are we trying to predict?
-Data Exploration: Let's get to know our dataset!
-Feature Engineering: Cleaning up and creating useful features.
-Model Design: Building the model and making predictions.
-Model Evaluation: How well did our model perform?
-Insights & Interpretation: Understanding which features are most important.
+1. Problem Definition: What are we trying to predict?
+2. Data Exploration: Let's get to know our dataset!
+3. Feature Engineering: Cleaning up and creating useful features.
+4. Model Design: Building the model and making predictions.
+5. Model Evaluation: How well did our model perform?
+6. Insights & Interpretation: Understanding which features are most important.
+
+---
+
+💻 Getting Started
+Install the Essentials
+First, let's make sure you have the necessary libraries installed. Run the following in your terminal:
+!pip install ydata-profiling
+!pip install category_encoders
