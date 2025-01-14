@@ -1,5 +1,7 @@
 # 🚀 Predicting NYC Apartment Sales Prices: A Machine Learning Pipeline Experiment 🏙️
-Hello, World:), and welcome to my project where I dive deep into predicting the sales prices of NYC apartments using a Machine Learning pipeline! This experiment covers the entire process—from cleaning and preprocessing the data to training a Random Forest model and analyzing its performance using Shapley values. It's a fun and informative journey to building a predictive model that can make sense of New York's real estate market.
+---
+
+Hello, and welcome to my project where I dive deep into predicting the sales prices of NYC apartments using a Machine Learning pipeline! This experiment covers the entire process—from cleaning and preprocessing the data to training a Random Forest model and analyzing its performance using Shapley values. It's a fun and informative journey to building a predictive model that can make sense of New York's real estate market.
 ---
 
 🔗 Data Source: NYC Citywide Rolling Calendar Sales Dataset
